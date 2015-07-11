@@ -1,2 +1,2 @@
 # NancyNugetServer
-A simple selfhosted mono nuget server 
+A simple self-hosted mono console nuget server 
